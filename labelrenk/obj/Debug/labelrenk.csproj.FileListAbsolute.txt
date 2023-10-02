@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\labelrenk\labelrenk\bin\Debug\labelrenk.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\labelrenk\labelrenk\bin\Debug\labelrenk.exe
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\labelrenk\labelrenk\bin\Debug\labelrenk.pdb
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\labelrenk\labelrenk\obj\Debug\labelrenk.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\labelrenk\labelrenk\obj\Debug\labelrenk.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\labelrenk\labelrenk\obj\Debug\labelrenk.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\labelrenk\labelrenk\obj\Debug\labelrenk.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\labelrenk\labelrenk\obj\Debug\labelrenk.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\labelrenk\labelrenk\obj\Debug\labelrenk.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\labelrenk\labelrenk\obj\Debug\labelrenk.exe
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\labelrenk\labelrenk\obj\Debug\labelrenk.pdb
